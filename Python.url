@@ -1,0 +1,8 @@
+import re
+
+inputvalue = input()
+
+results = re.findall(r"a{1}", inputvalue)
+
+for r in results:
+    print(r, end = "")

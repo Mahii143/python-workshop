@@ -1,0 +1,7 @@
+print(format('*','*>25'),'BILL',format('*','*>25'))
+print("ItemName\t\tQuantity\t\tPrice")
+print("XXX\t\t\t2\t\t\t40")
+print("YYY\t\t\t3\t\t\t20")
+print(format('*','*>56'))
+print("Total amound to be paid\t\t\t\t140")
+print(format('*','*>56'))

@@ -1,0 +1,6 @@
+N1 = int(input())
+len1 = str(N1)
+N2 = int(input())
+len2 = str(N2)
+print(len(len1))
+print(len(len2))
